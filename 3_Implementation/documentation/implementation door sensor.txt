@@ -1,0 +1,8 @@
+IMPLEMENTATION PROCESS:
+
+STEP 1:
+ -  At first we  write program in text file and convert it into hex file usinh ATMEL Software.
+STEP 2:
+ -  Later we dump heex file into the atmega328 in simulide and coonect ckt using required componenets.
+STEP 3:
+ -  At last we perform run operation and check the output.
